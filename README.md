@@ -38,7 +38,7 @@ time (int) — time in hours since start of test. The data begins at time t=0
 value — (dict of strings) — either an offer id or transaction amount depending on the record
 ## Contents of Repository
 - [Jupyter Notebook](https://jupyter.org/) - Editor for Python Code
-- Datasets put in folder [Airbnb Datasets](https://github.com/chetnashahi/Starbucks-Project/tree/master/Data)
+- Datasets put in folder [Datasets](https://github.com/chetnashahi/Starbucks-Project/tree/master/Data)
 - And of course, the course [Udacity](https://classroom.udacity.com/)
 
 The detailed blog post is also published on [Medium](https://chetna-shahi31.medium.com/starbucks-offer-analysis-468c516135e4)
